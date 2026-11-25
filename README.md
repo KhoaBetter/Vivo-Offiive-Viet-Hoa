@@ -28,7 +28,7 @@ Trên các bản vivo PC Suite phát hành cho thị trường Trung Quốc (`IS
 ## Hướng dẫn sử dụng
 
 1. Tắt hoàn toàn **vivo Office / PC Suite** (kiểm tra trong Task Manager đảm bảo không còn `pcsuite.exe` hoặc `vivocontrol.exe` chạy ngầm).
-2. Tải script patch patch_vivo.ps1 ở phía trên (hoặc file `app.asar` đã đóng gói sẵn trong mục (https://github.com/KhoaBetter/Vivo-Offiive-Viet-Hoa/releases/tag/untagged-3e4645fc9f1f6041eea7) rồi giải nén ra).
+2. Tải script patch patch_vivo.ps1 ở phía trên (hoặc file `app.asar` đã đóng gói sẵn trong mục (https://github.com/KhoaBetter/Vivo-Offiive-Viet-Hoa/releases/tag/v7.0.6)) rồi giải nén ra).
 3. Mở **PowerShell** và chạy script patch (hoặc chép file `app.asar`sau khi đã giải nén vào thư mục `<Thư mục cài đặt>\pcsuite\resources\`),(Bạn cài app ở đâu thì chép file vào đấy)
 4. Mở lại **vivo PC Suite** và sử dụng giao diện Tiếng Việt.
 
